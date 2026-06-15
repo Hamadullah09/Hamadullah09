@@ -23,7 +23,7 @@ File name: README.md
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ## About Me
 
@@ -48,7 +48,7 @@ const hamadullah = {
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## What I am Building Toward
 
