@@ -48,7 +48,7 @@ const hamadullah = {
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="30%" valign="top">
 
 ## What I am Building Toward
 
@@ -117,7 +117,7 @@ Compiler related project showing parsing, systems thinking and implementation sk
 
 Personal portfolio built with a modern front end stack.
 
-<a href="https://github.com/Hamadullah09/Portfoliowebsite">
+<a href="https://hamadullah.me/">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamadullah09&repo=Portfoliowebsite&theme=tokyonight&hide_border=true" alt="Portfolio Website" />
 </a>
 
@@ -148,7 +148,7 @@ Campus oriented web project focused on practical problem solving.
 <br />
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadullah09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-<img width="52%" src="https://github-profile-trophy.vercel.app/?username=Hamadullah09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
+
 
 </div>
 
@@ -206,7 +206,7 @@ Learn reliability, monitoring, incidents and system health.
   <img src="https://img.shields.io/badge/LinkedIn-Hamadullah%20Arain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https:hamadullah.me">
+<a href="https://hamadullah.me/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
