@@ -19,7 +19,11 @@ File name: README.md
 
 </div>
 
----
+<br />
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## About Me
 
@@ -39,79 +43,27 @@ const hamadullah = {
     "AI and data driven projects",
     "Compiler and systems projects"
   ],
-  goal: "Build useful, reliable and production-ready systems"
+  goal: "Become an engineer who builds systems that are useful, reliable and production ready"
 };
 ```
 
----
+</td>
+<td width="40%" valign="top">
 
 ## What I am Building Toward
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
+- Strong foundations in **Cloud, DevOps and SRE**
+- Better engineering through **automation and clean documentation**
+- Projects that show **real problem solving**
+- Systems that are easier to **deploy, observe and improve**
 
-### Cloud
+<br />
 
-Linux servers, networking basics, deployment and cloud fundamentals.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### DevOps
-
-CI/CD pipelines, Docker workflows, automation and release practices.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### SRE
-
-Monitoring, logging, reliability, incidents and system health.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### Full Stack
-
-Practical web apps with clean UI, APIs and database integration.
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
 </td>
 </tr>
 </table>
-
----
-
-## Profile Snapshot
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<b>Current Role</b>
-<br />
-BSCS Student
-</td>
-<td align="center" width="25%">
-<b>Main Track</b>
-<br />
-DevOps and SRE
-</td>
-<td align="center" width="25%">
-<b>Mindset</b>
-<br />
-Build and improve
-</td>
-<td align="center" width="25%">
-<b>Status</b>
-<br />
-Open to internships
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -195,7 +147,8 @@ Campus oriented web project focused on practical problem solving.
 
 <br />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadullah09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadullah09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="52%" src="https://github-profile-trophy.vercel.app/?username=Hamadullah09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
 
 </div>
 
@@ -211,6 +164,36 @@ Campus oriented web project focused on practical problem solving.
 
 ---
 
+## Engineering Goals
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Cloud
+
+Deploy apps, understand networking, work with Linux servers and learn cloud fundamentals.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### DevOps
+
+Automate builds, tests, releases and deployment workflows.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### SRE
+
+Learn reliability, monitoring, incidents and system health.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Connect With Me
 
 <div align="center">
@@ -223,7 +206,7 @@ Campus oriented web project focused on practical problem solving.
   <img src="https://img.shields.io/badge/LinkedIn-Hamadullah%20Arain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/Hamadullah09/Portfoliowebsite">
+<a href="https:hamadullah.me">
   <img src="https://img.shields.io/badge/Portfolio-View%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -233,6 +216,8 @@ Campus oriented web project focused on practical problem solving.
 
 <div align="center">
 
-### Building skills one project at a time
+### Thanks for visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:1e3a8a,100:0f172a" width="100%" alt="Footer" />
 
 </div>
