@@ -1,18 +1,14 @@
 <!--
 Professional GitHub Profile README for Hamadullah09
-How to use:
-1. Create a public repository named Hamadullah09.
-2. Add this file as README.md in the root.
-3. Update the placeholder social links if you want.
+Use this inside a public repository named exactly: Hamadullah09
+File name: README.md
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Hamadullah%20Arain&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Computer%20Science%20Student%20%7C%20DevOps%20%26%20SRE%20Learner%20%7C%20Builder&descAlign=50&descAlignY=60" />
+# Hi, I'm Hamadullah Arain
 
-<a href="https://github.com/Hamadullah09">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+clean+software+with+practical+engineering.;Focused+on+Cloud%2C+DevOps%2C+SRE+and+Full+Stack.;Learning+systems%2C+automation%2C+CI%2FCD+and+reliability." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+turn+ideas+into+working+software.;Cloud+%7C+DevOps+%7C+SRE+%7C+Full+Stack.;Code.+Automate.+Deploy.+Monitor.+Improve." alt="Typing SVG" />
 
 <br />
 
@@ -37,29 +33,29 @@ const hamadullah = {
   direction: "Cloud, DevOps and Site Reliability Engineering",
   currentFocus: [
     "Linux fundamentals",
-    "Docker and containerized apps",
+    "Docker and containerized applications",
     "CI/CD with GitHub Actions",
     "Cloud deployment basics",
     "Monitoring, logging and reliability"
   ],
   alsoBuilds: [
-    "Full stack web apps",
+    "Full stack web applications",
     "AI and data driven projects",
     "Compiler and systems projects"
   ],
-  mindset: "Build, learn, improve, repeat"
+  goal: "Become an engineer who builds systems that are useful, reliable and production ready"
 };
 ```
 
 </td>
 <td width="40%" valign="top">
 
-## Current Track
+## What I am Building Toward
 
-- Strengthening **DevOps and SRE fundamentals**
-- Building projects with **Python, TypeScript and web technologies**
-- Improving **GitHub workflow, documentation and deployment**
-- Learning how production systems stay **available, secure and observable**
+- Strong foundations in **Cloud, DevOps and SRE**
+- Better engineering through **automation and clean documentation**
+- Projects that show **real problem solving**
+- Systems that are easier to **deploy, observe and improve**
 
 <br />
 
@@ -91,9 +87,10 @@ const hamadullah = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### AI Crime Hotspot Predictor and Safe Route System
+
 AI assisted project focused on safer route planning and hotspot prediction.
 
 <a href="https://github.com/Hamadullah09/AI_Crime_Hotspot_Predictor_And_Safe_Route_System">
@@ -101,10 +98,11 @@ AI assisted project focused on safer route planning and hotspot prediction.
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### RetroQuest Compiler
-Compiler related project showing systems thinking, parsing and implementation skills.
+
+Compiler related project showing parsing, systems thinking and implementation skills.
 
 <a href="https://github.com/Hamadullah09/RetroQuest-Compiler">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamadullah09&repo=RetroQuest-Compiler&theme=tokyonight&hide_border=true" alt="RetroQuest Compiler" />
@@ -113,9 +111,10 @@ Compiler related project showing systems thinking, parsing and implementation sk
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Portfolio Website
+
 Personal portfolio built with a modern front end stack.
 
 <a href="https://github.com/Hamadullah09/Portfoliowebsite">
@@ -123,9 +122,10 @@ Personal portfolio built with a modern front end stack.
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### FAST Carpool
+
 Campus oriented web project focused on practical problem solving.
 
 <a href="https://github.com/Hamadullah09/Fast-Carpool">
@@ -168,22 +168,25 @@ Campus oriented web project focused on practical problem solving.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### Cloud
-Deploy apps, understand networking, use Linux servers and cloud basics.
+
+Deploy apps, understand networking, work with Linux servers and learn cloud fundamentals.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### DevOps
-Automate builds, tests, releases and infrastructure workflows.
+
+Automate builds, tests, releases and deployment workflows.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### SRE
-Learn reliability, monitoring, incident thinking and system health.
+
+Learn reliability, monitoring, incidents and system health.
 
 </td>
 </tr>
@@ -191,7 +194,7 @@ Learn reliability, monitoring, incident thinking and system health.
 
 ---
 
-## Connect
+## Connect With Me
 
 <div align="center">
 
@@ -199,13 +202,12 @@ Learn reliability, monitoring, incident thinking and system health.
   <img src="https://img.shields.io/badge/GitHub-Hamadullah09-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-<!-- Replace # with your real links when ready -->
-<a href="#">
-  <img src="https://www.linkedin.com/in/hamadullah09/?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/hamadullah09/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamadullah%20Arain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Add%20Your%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/Hamadullah09/Portfoliowebsite">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Project-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -214,8 +216,8 @@ Learn reliability, monitoring, incident thinking and system health.
 
 <div align="center">
 
-### Thanks for visiting
+### Building skills one project at a time
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:1e3a8a,100:0f172a" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:1e3a8a,100:0f172a" width="100%" alt="Footer" />
 
 </div>
