@@ -148,7 +148,10 @@ Campus oriented web project focused on practical problem solving.
 <br />
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadullah09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-<img width="52%" src="https://github-profile-trophy.vercel.app/?username=Hamadullah09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
+
+<br />
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Hamadullah09&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
 
 </div>
 
